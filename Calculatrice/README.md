@@ -66,5 +66,6 @@ Le résultat du calcul est montré dans la même zone après avoir appuyé sur =
 L'application gère les erreurs de manière à éviter des calculs invalides :
 
 **Division par zéro** : Un message d'erreur est affiché si une division par zéro est tentée.
+
 **Expression invalide** : Si l'expression est incorrecte ou contient des caractères invalides, un message d'erreur est affiché.
 
