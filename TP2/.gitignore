@@ -1,0 +1,57 @@
+# Ignorer les fichiers de build (obj, bin)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]ebug_x86/
+[Dd]ebug_x64/
+[Dd]ebug_arm/
+[Dd]ebug_win32/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Dd]Release_x86/
+[Dd]Release_x64/
+[Dd]Release_arm/
+[Dd]Release_win32/
+[Dd]istro/
+
+# Ignorer les fichiers du système de fichiers de l'OS
+Thumbs.db
+Desktop.ini
+
+# Ignorer les fichiers et répertoires spécifiques à Visual Studio
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorer les fichiers générés par .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.xml
+*.json
+*.config
+
+# Ignorer les fichiers de package NuGet
+/packages/
+
+# Ignorer les fichiers d'installation de la solution
+*.nupkg
+
+# Ignorer les répertoires de dépendances pour les projets dotnet
+bin/
+obj/
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.bak
+
+# Ignorer les fichiers de configuration de l'éditeur (par exemple Visual Studio)
+.vscode/

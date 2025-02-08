@@ -1,0 +1,16 @@
+C:\Users\Marou\source\repos\tp2\Activite6\bin\Debug\net8.0-windows\Activite6.exe
+C:\Users\Marou\source\repos\tp2\Activite6\bin\Debug\net8.0-windows\Activite6.deps.json
+C:\Users\Marou\source\repos\tp2\Activite6\bin\Debug\net8.0-windows\Activite6.runtimeconfig.json
+C:\Users\Marou\source\repos\tp2\Activite6\bin\Debug\net8.0-windows\Activite6.dll
+C:\Users\Marou\source\repos\tp2\Activite6\bin\Debug\net8.0-windows\Activite6.pdb
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.Form1.resources
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.csproj.GenerateResource.cache
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.AssemblyInfoInputs.cache
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.AssemblyInfo.cs
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.csproj.CoreCompileInputs.cache
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.dll
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\refint\Activite6.dll
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.pdb
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\Activite6.genruntimeconfig.cache
+C:\Users\Marou\source\repos\tp2\Activite6\obj\Debug\net8.0-windows\ref\Activite6.dll
