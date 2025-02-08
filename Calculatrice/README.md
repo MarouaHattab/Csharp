@@ -20,8 +20,8 @@ Bienvenue dans l'application **Calculatrice** en C# développée avec Windows Fo
 1. Clonez ou téléchargez le projet sur votre machine locale.
 
    ```bash
-   git clone https://github.com/MarouaHattab/Csharp.git/Calculatrice
-    ```
+   git clone https://github.com/MarouaHattab/Csharp/tree/main
+   ```
 2. Ouvrez le projet dans Visual Studio.
 
 3. Compilez le projet pour générer l'exécutable.
@@ -56,7 +56,7 @@ Lorsque vous effectuez un calcul, le résultat est affiché dans la zone de text
 
 Sur l'image ci-dessus :
 
-![output](/img/output.png)
+![output](img/output.png)
 
 
 L'expression courante est affichée en haut.
